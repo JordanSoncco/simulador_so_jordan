@@ -1,0 +1,12 @@
+# ============================================================
+#  ARCHIVO DE PROCESOS DE EJEMPLO
+#  Simulador de Sistemas Operativos — Jordan Soncco | UNA Puno
+# ============================================================
+#  Formato por línea:  Nombre, T.LL (Llegada), T.S. (Ráfaga)
+#  (Las líneas que empiezan con # son comentarios y se ignoran)
+# ============================================================
+
+P0, 0, 6
+P1, 1, 3
+P2, 3, 2
+P3, 5, 4
